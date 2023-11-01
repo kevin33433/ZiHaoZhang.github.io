@@ -11,7 +11,10 @@ author_profile: true
 
 {% include base_path %}
 ## 2023
+- L. Hu, G. Li*, A. Hu, and D.W.K.Ng, “Exploiting Malicious RIS for Secret Key Acquisition in Physical-layer Key Generation,” IEEE Wireless Commun. Lett., pp. 1–5, 2023.
 
+- Y. Sun, G. Li*, H. Luo, Y. Xing, S. Dang and A. Hu, "Location-Invariant Radio Frequency Fingerprint for Base Station Recognition", IEEE Wireless Communications Letters, DOI:10.1109/LWC.2023.3283800, 2023.
+  
 - L. Hu, C. Sun, G. Li*, A. Hu, and D.W.K.Ng, Reconfigurable Intelligent Surface-aided Secret Key Generation in Multi-Cell Systems, accepted by IEEE Trans. on Comm., 2023.
 
 - Q. Meng, G. Li, J. Shi, and A. Hu, " Enhancing RF Fingerprinting with a Simulated Attack Detection Strategy for Few Labeled Signals," 2023 IEEE 23rd International Conference on Communication Technology (ICCT), Wuxi, China, 2023.
