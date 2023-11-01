@@ -28,6 +28,9 @@ author_profile: true
 - Z. Zhang, G. Li, J. Shi, H. Li and A. Hu, "Real-World Aircraft Recognition based on RF Fingerprinting with Few Labeled ADS-B Signals," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2023.3314491.
 
 - H. Li, G. Li et al., "RIS-Assisted Physical-Layer Key Generation with Discrete Phase Shift Optimization," in IEEE Vehicular Technology Conference (VTC) Workshop, Hong Kong, China, 2023.
+
+- Q. Xiao, J. Zhao, S. Feng, G. Li* and A. Hu, "Securing NextG Networks with Physical-Layer Key Generation: A Survey", accepted by Security and Safety, 2023.
+
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
