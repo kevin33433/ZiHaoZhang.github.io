@@ -11,6 +11,8 @@ author_profile: true
 
 {% include base_path %}
 ## 2023
+
+- **G. Li**, H. Luo, J. Yu, A. Hu and J. Wang, “Information-Theoretic Secure Key Sharing for Wide-Area Mobile Applications,” IEEE Wireless Commun. Mag., pp. 1-8, 2023.
 - L. Hu, **G. Li\***, A. Hu, and D.W.K.Ng, “Exploiting Malicious RIS for Secret Key Acquisition in Physical-layer Key Generation,” IEEE Wireless Commun. Lett., pp. 1–5, 2023.
 
 - Y. Sun, **G. Li\***, H. Luo, Y. Xing, S. Dang and A. Hu, "Location-Invariant Radio Frequency Fingerprint for Base Station Recognition", IEEE Wireless Communications Letters, DOI:10.1109/LWC.2023.3283800, 2023.
