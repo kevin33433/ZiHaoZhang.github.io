@@ -158,7 +158,7 @@ author_profile: true
 
 
 
-#2016年及之前
+## 2016年及之前
 
 -  **G. Li**, and A. Hu, Virtual MIMO-based Cooperative Beamforming and Jamming Scheme for the Clustered Wireless Sensor Network Security, in Proc. of IEEE International Conference on Computer and Communications (ICCC), Chengdu, 14-17 Oct. 2016, pp.2246-2250.
 
