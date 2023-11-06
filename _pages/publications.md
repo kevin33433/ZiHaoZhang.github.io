@@ -32,7 +32,7 @@ author_profile: true
 - Q. Xiao, J. Zhao, S. Feng, **G. Li\*** and A. Hu, "Securing NextG Networks with Physical-Layer Key Generation: A Survey", accepted by Security and Safety, 2023.
 
 ## 2022
-- 胡奥婷,胡爱群*,胡韵,李古月,韩金广.机器学习中差分隐私的数据共享及发布：技术、应用和挑战[J].信息安全学报,2022,7(4):1-16
+- 胡奥婷,胡爱群*,胡韵,**李古月**,韩金广.机器学习中差分隐私的数据共享及发布：技术、应用和挑战[J].信息安全学报,2022,7(4):1-16
 
 
 -  L. Hu, **G. Li\***, X. Qian, D.W.K.Ng, and A. Hu, “Joint transmit and reflective beamforming for RIS-assisted secret key generation,” in Proc. IEEE Global Communications Conference (GLOBECOM), Rio de Janeiro, Brazil, 4–8 Dec. 2022, pp. 1-6.
@@ -80,7 +80,7 @@ author_profile: true
 
 
 
-## 2020年
+## 2020
 
 -  C. Sun, H. Yang and **G. Li\***, AmpRmdr: Remainder-Based Secret Key Generation Using Wireless Channel Amplitude, IEEE Access, vol. 8, pp. 228178 - 228187, 2020.
 
@@ -100,7 +100,7 @@ author_profile: true
 
 
 
-##2019
+## 2019
 
 -  **G. Li**, J. Yu, Y. Xing, and A. Hu. Location-invariant physical layer identification approach for WiFi devices. IEEE Access, pages 106974 - 106986, 2019.
 
