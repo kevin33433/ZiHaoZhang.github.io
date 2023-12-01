@@ -15,7 +15,7 @@ redirect_from:
 * 2023-11-14 课题组**孙海晰**在[“华为杯”第二十届中国研究生数学建模竞赛中获C题二等奖]()
 * 2023-11-05 课题组**霍安琪、罗弘毅、孙海晰、储志明、张子豪**在全国仿真竞赛中获硬件组一等奖
 * 2023-11-05 课题组**杨默凯、张泽琛、李皓钰、孙瑞辰、李若倩**在2023年全国仿真创新应用大赛智能硬件组获二等奖
-* 2023-11-05 课题组**汪文灏、成颖、孙英、周雅杰**在2023年全国仿真创新应用大赛智能硬件组获一等奖
+* 2023-11-05 课题组**汪文灏、成颖、孙英杰、周雅杰**在2023年全国仿真创新应用大赛智能硬件组获一等奖
 * 2023-10-20 课题组**孟庆纯、施霁桐**等工作[《Enhancing RF Fingerprinting with a Simulated Attack Detection Strategy for Few Labeled Signals》]()被2023 IEEE 23rd International Conference on Communication Technology (ICCT)录用
 * 2023-10-15 课题组**李皓钰、孙海晰**获研究生国家奖学金
 * 2023-10-10 课题组**李皓钰**等工作《RIS-Assisted Physical-Layer Key Generation with Discrete Phase Shift Optimization》被IEEE Vehicular Technology Conference (VTC) Workshop录用
