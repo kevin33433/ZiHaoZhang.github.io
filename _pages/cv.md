@@ -22,7 +22,6 @@ redirect_from:
 * 2023-10-10 课题组**李皓钰**等工作《RIS-Assisted Physical-Layer Key Generation with Discrete Phase Shift Optimization》被IEEE Vehicular Technology Conference (VTC) Workshop录用
 * 2023-09-14 课题组**杨丽琳**等工作《Physical-layer Secret Key Generation for Dual-task Scenarios》被 China Communications 录用
 * 2023-09-07 课题组**张泽琛、施霁桐**等工作《Real-World aircraft recognition based on RF Fingerprinting with Few Labeled ADS-B Signals》被IEEE Transactions on Vehicular Technology（TVT） 录用
-* 2023-09    **李古月,张鹤鸣,罗弘毅,何骏昊**，一种 MIMO 场景下基于射频指纹的空口接入识别方法 ，受理，202311165415X
 * 2023-08-11 课题组**孙海晰、李皓钰**等工作《A Physical-Layer Key Generation Scheme for Non-Square Channel Matrices Based on PMI》被会议2023 IEEE/CIC International Conference on Communications in China (ICCC) 录用
 * 2023-08-01 课题组**孙海晰**在江苏省研究生数学建模科研创新实践大赛中获三等奖
 * 2023-07-11 课题组**肖清江、赵金荣、冯胜**等工作《Securing NextG Networks with Physical-Layer Key Generation: A Survey》被 Security and Safety 录用
