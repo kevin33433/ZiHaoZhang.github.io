@@ -25,6 +25,7 @@ redirect_from:
 工学学士(信息科学与工程)，东南大学，中国，2011。
 
 ### 学术兼职
+担任国际SCI期刊IEEE Communication Letters编辑
 
 IEEE会员，中国通信学会高级会员，江苏省网络空间安全学会会员，
 
