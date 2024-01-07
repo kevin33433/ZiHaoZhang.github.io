@@ -11,7 +11,6 @@ author_profile: true
 
 {% include base_path %}
 ## 2023
-- **李古月**，俞佳宝，胡爱群.给予设备与信道特征的物理层安全方法.中国密码学会，2023.12.10
 - H. Luo, **G. Li\***, Y. Xing, J. Zhang and X. Wang, RelativeRFF: Multi-Antenna Device Identification in Multipath Propagation Scenarios, in Proc. IEEE Int. Conf. Commun. (ICC), Rome, Italy, 28 May-01 June 2023, pp. 1-5.
   
 - **G. Li**, H. Luo, J. Yu, A. Hu and J. Wang, “Information-Theoretic Secure Key Sharing for Wide-Area Mobile Applications,” IEEE Wireless Commun. Mag., pp. 1-8, 2023.
