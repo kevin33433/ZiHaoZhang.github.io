@@ -10,6 +10,14 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+## 2024
+- **G. Li\***, Y. Ma, W. Wang, J. Zhang and H. Luo, "The Self-Detection Method of the Puppet Attack in Biometric Fingerprinting," accepted by IEEE Internet Things J., 2024.
+
+- X. Zhang, **G. Li\***, J. Zhang, L. Peng, A. Hu, X. Wang, Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments, accepted by IEEE Transactions on Vehicular Technology, 2024.
+
+- W. Wang, **G. Li\***, Z. Chu, H. Li and D. Faccio, "Two-Factor Authentication Approach Based on Behavior Patterns for Defeating Puppet Attacks," IEEE Sens. J., pp. 1-15, 2024.
+
+- H. Tang, **G. Li\***, G. Tao, and A. Hu, “A VT-Code-Based Information Reconciliation Scheme for Secret Key Generation Using RSS”, accepted by IEEE Commun. Lett., 2024.
 ## 2023
 - H. Luo, **G. Li\***, Y. Xing, J. Zhang and X. Wang, RelativeRFF: Multi-Antenna Device Identification in Multipath Propagation Scenarios, in Proc. IEEE Int. Conf. Commun. (ICC), Rome, Italy, 28 May-01 June 2023, pp. 1-5.
   
@@ -19,7 +27,7 @@ author_profile: true
 
 - Y. Sun, **G. Li\***, H. Luo, Y. Xing, S. Dang and A. Hu, "Location-Invariant Radio Frequency Fingerprint for Base Station Recognition", IEEE Wireless Communications Letters, DOI:10.1109/LWC.2023.3283800, 2023.
   
-- L. Hu, C. Sun, **G. Li\***, A. Hu, and D.W.K.Ng, Reconfigurable Intelligent Surface-aided Secret Key Generation in Multi-Cell Systems, accepted by IEEE Trans. on Comm., 2023.
+- L. Hu, C. Sun, G. Li, A. Hu and D. W. K. Ng, "Reconfigurable Intelligent Surface-Aided Secret Key Generation in Multi-Cell Systems," in IEEE Transactions on Communications, vol. 71, no. 11, pp. 6499-6513, Nov. 2023, doi: 10.1109/TCOMM.2023.3301048. 
 
 - Q. Meng,**G. Li\***, J. Shi, and A. Hu, " Enhancing RF Fingerprinting with a Simulated Attack Detection Strategy for Few Labeled Signals," 2023 IEEE 23rd International Conference on Communication Technology (ICCT), Wuxi, China, 2023.
 
