@@ -11,6 +11,8 @@ author_profile: true
 
 {% include base_path %}
 ## 2024
+- Y Du, H Dai, H Liu, Y Wang, **G Li\***, Y Ren, Y Chen, and K Zhang, “Secret key generation based on manipulated channel measurement matching,” IEEE Transactions on Mobile Computing (TMC), 2024, DOI: 10.1109/TMC.2024.3364909.
+
 - **G. Li\***, Y. Ma, W. Wang, J. Zhang and H. Luo, "The Self-Detection Method of the Puppet Attack in Biometric Fingerprinting," accepted by IEEE Internet Things J., 2024.
 
 - X. Zhang, **G. Li\***, J. Zhang, L. Peng, A. Hu, X. Wang, Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments, accepted by IEEE Transactions on Vehicular Technology, 2024.
