@@ -11,6 +11,8 @@ author_profile: true
 
 {% include base_path %}
 ## 2024
+- Y Du, H Dai, H Liu, Y Wang, **G Li\***, Y Ren, Y Chen, and K Zhang, “Secret key generation based on manipulated channel measurement matching,” IEEE Transactions on Mobile Computing (TMC), 2024, DOI: 10.1109/TMC.2024.3364909.
+ 
 - **G. Li\***, Y. Ma, W. Wang, J. Zhang and H. Luo, "The Self-Detection Method of the Puppet Attack in Biometric Fingerprinting," accepted by IEEE Internet Things J., 2024.
 
 - X. Zhang, **G. Li\***, J. Zhang, L. Peng, A. Hu, X. Wang, Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments, accepted by IEEE Transactions on Vehicular Technology, 2024.
@@ -19,15 +21,15 @@ author_profile: true
 
 - H. Tang, **G. Li\***, G. Tao, and A. Hu, “A VT-Code-Based Information Reconciliation Scheme for Secret Key Generation Using RSS”, accepted by IEEE Commun. Lett., 2024.
 ## 2023
-- H. Luo, **G. Li\***, Y. Xing, J. Zhang and X. Wang, RelativeRFF: Multi-Antenna Device Identification in Multipath Propagation Scenarios, in Proc. IEEE Int. Conf. Commun. (ICC), Rome, Italy, 28 May-01 June 2023, pp. 1-5.
+- H. Luo, **G. Li\***, Y. Xing, J. Zhang and X. Wang, RelativeRFF: Multi-Antenna Device Identification in Multipath Propagation Scenarios," ICC 2023 - IEEE International Conference on Communications, Rome, Italy, 2023, pp. 3708-3713, doi: 10.1109/ICC45041.2023.10279540.
   
-- **G. Li**, H. Luo, J. Yu, A. Hu and J. Wang, “Information-Theoretic Secure Key Sharing for Wide-Area Mobile Applications,” IEEE Wireless Commun. Mag., pp. 1-8, 2023.
+- **G. Li**, H. Luo, J. Yu, A. Hu and J. Wang, "Information-Theoretic Secure Key Sharing for Wide-Area Mobile Applications," in IEEE Wireless Communications, vol. 31, no. 1, pp. 118-124, February 2024, doi: 10.1109/MWC.012.2200289. 
   
-- L. Hu, **G. Li\***, A. Hu, and D.W.K.Ng, “Exploiting Malicious RIS for Secret Key Acquisition in Physical-layer Key Generation,” IEEE Wireless Commun. Lett., pp. 1–5, 2023.
+- L. Hu, **G. Li\***, A. Hu, and D.W.K.Ng, “Exploiting Malicious RIS for Secret Key Acquisition in Physical-layer Key Generation,” in IEEE Wireless Communications Letters, vol. 13, no. 2, pp. 417-421, Feb. 2024, doi: 10.1109/LWC.2023.3330809. 
 
-- Y. Sun, **G. Li\***, H. Luo, Y. Xing, S. Dang and A. Hu, "Location-Invariant Radio Frequency Fingerprint for Base Station Recognition", IEEE Wireless Communications Letters, DOI:10.1109/LWC.2023.3283800, 2023.
+- Y. Sun, **G. Li\***, H. Luo, Y. Xing, S. Dang and A. Hu, "Location-Invariant Radio Frequency Fingerprint for Base Station Recognition," in IEEE Wireless Communications Letters, vol. 12, no. 9, pp. 1583-1587, Sept. 2023, doi: 10.1109/LWC.2023.3283800. 
   
-- L. Hu, C. Sun, G. Li, A. Hu and D. W. K. Ng, "Reconfigurable Intelligent Surface-Aided Secret Key Generation in Multi-Cell Systems," in IEEE Transactions on Communications, vol. 71, no. 11, pp. 6499-6513, Nov. 2023, doi: 10.1109/TCOMM.2023.3301048. 
+- L. Hu, C. Sun,**G. Li\***, A. Hu and D. W. K. Ng, "Reconfigurable Intelligent Surface-Aided Secret Key Generation in Multi-Cell Systems," in IEEE Transactions on Communications, vol. 71, no. 11, pp. 6499-6513, Nov. 2023, doi: 10.1109/TCOMM.2023.3301048. 
 
 - Q. Meng,**G. Li\***, J. Shi, and A. Hu, " Enhancing RF Fingerprinting with a Simulated Attack Detection Strategy for Few Labeled Signals," 2023 IEEE 23rd International Conference on Communication Technology (ICCT), Wuxi, China, 2023.
 
@@ -37,9 +39,9 @@ author_profile: true
 
 - L. Yang, **G. Li**, T. Guo, H. Xu, and A. Hu, "Physical-layer Secret Key Generation for Dual-task Scenarios," China Communications.
 
-- Z. Zhang, **G. Li**, J. Shi, H. Li and A. Hu, "Real-World Aircraft Recognition based on RF Fingerprinting with Few Labeled ADS-B Signals," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2023.3314491.
+- Z. Zhang, **G. Li**, J. Shi, H. Li and A. Hu, "Real-World Aircraft Recognition Based on RF Fingerprinting With Few Labeled ADS-B Signals," in IEEE Transactions on Vehicular Technology, vol. 73, no. 2, pp. 2866-2871, Feb. 2024, doi: 10.1109/TVT.2023.3314491.
 
-- H. Li,**G. Li** et al., "RIS-Assisted Physical-Layer Key Generation with Discrete Phase Shift Optimization," in IEEE Vehicular Technology Conference (VTC) Workshop, Hong Kong, China, 2023.
+- H. Li,**G. Li** et al., "RIS-Assisted Physical-Layer Key Generation with Discrete Phase Shift Optimization," 2023 IEEE 98th Vehicular Technology Conference (VTC2023-Fall), Hong Kong, Hong Kong, 2023, pp. 1-5, doi: 10.1109/VTC2023-Fall60731.2023.10333843.
 
 - Q. Xiao, J. Zhao, S. Feng, **G. Li\*** and A. Hu, "Securing NextG Networks with Physical-Layer Key Generation: A Survey", accepted by Security and Safety, 2023.
 
