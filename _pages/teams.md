@@ -10,33 +10,32 @@ redirect_from:
 
 {% include base_path %}
 
-## Privacy Policy
+## 
 
-The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+李老师个人博客：https://guyuelee.github.io/blog.github.io/
 
-First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
+实验室博客：kevin33433.github.io/6102laboratory.github.io/
 
 ### Log Files
 
-Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
+学生要求：
+希望你勤劳能干，积极沟通，踏实主动，团队协作，目标明确。
+联系邮箱：guyuelee@seu.edu.cn
 
-* Internet Protocol addresses (IP)
-* Types of browser
-* Internet Service Provider (ISP)
-* Date and time stamp
-* Referring and exit pages
-* Number of clicks
+
 
 All of this information is not linked to anything that is personally identifiable.
 
 ### Cookies and Web Beacons
 
-When you visit this site "convenience" cookies are stored on your computer when you submit a comment to help you log in faster to [Disqus](http://disqus.com) the next time you leave a comment.
-
-Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. This site has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
-
-If you wish to disable cookies, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
-
-#### Google Analytics
-
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
+实验室内已毕业师兄师姐工作情况：
+2021:
+张鑫伟（香港理工大学读博）
+何川（国家电网智研院）
+杨海誉（华为）
+2020:
+胡磊（马里兰大学读博）
+侯宗越（携程算法）
+施霁桐（银行）
+冯淑颖（比亚迪）
+黄志超(TP-LINK)
