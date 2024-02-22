@@ -12,11 +12,14 @@ main:
 #  - title: "Portfolio"
 #    url: /portfolio/
         
-#  - title: "Blog Posts"
-#    url: /year-archive/
+
     
   - title: "News"
     url: /cv/
+
+  - title: "招生信息"
+    url: /teams/
+
     
  # - title: "Guide"
    # url: /markdown/
