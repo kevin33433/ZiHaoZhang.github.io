@@ -1,6 +1,6 @@
 ---
-permalink: /terms/
-title: "Terms and Privacy Policy"
+permalink: /teams/
+title: "teams"
 modified: 2016-06-06
 ---
 
