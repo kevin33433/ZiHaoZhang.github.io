@@ -1,11 +1,14 @@
 ---
-permalink: /teams/
+layout: archive
 title: "teams"
-modified: 2016-06-06
+permalink: /teams/
+author_profile: true
+redirect_from:
+  - /resume
 ---
 
+
 {% include base_path %}
-{% include toc %}
 
 ## Privacy Policy
 
