@@ -19,15 +19,15 @@ author_profile: true
 
 - H. Tang, **G. Li\***, G. Tao, and A. Hu, “A VT-Code-Based Information Reconciliation Scheme for Secret Key Generation Using RSS”, accepted by IEEE Commun. Lett., 2024.
 ## 2023
-- H. Luo, **G. Li\***, Y. Xing, J. Zhang and X. Wang, RelativeRFF: Multi-Antenna Device Identification in Multipath Propagation Scenarios, in Proc. IEEE Int. Conf. Commun. (ICC), Rome, Italy, 28 May-01 June 2023, pp. 1-5.
+- H. Luo, **G. Li\***, Y. Xing, J. Zhang and X. Wang, "RelativeRFF: Multi-Antenna Device Identification in Multipath Propagation Scenarios," ICC 2023 - IEEE International Conference on Communications, Rome, Italy, 2023, pp. 3708-3713, doi: 10.1109/ICC45041.2023.10279540.
   
-- **G. Li**, H. Luo, J. Yu, A. Hu and J. Wang, “Information-Theoretic Secure Key Sharing for Wide-Area Mobile Applications,” IEEE Wireless Commun. Mag., pp. 1-8, 2023.
+- **G. Li**, H. Luo, J. Yu, A. Hu and J. Wang, “Information-Theoretic Secure Key Sharing for Wide-Area Mobile Applications,”  in IEEE Wireless Communications, vol. 31, no. 1, pp. 118-124, February 2024, doi: 10.1109/MWC.012.2200289.
   
-- L. Hu, **G. Li\***, A. Hu, and D.W.K.Ng, “Exploiting Malicious RIS for Secret Key Acquisition in Physical-layer Key Generation,” IEEE Wireless Commun. Lett., pp. 1–5, 2023.
+- L. Hu, **G. Li\***, A. Hu, and D.W.K.Ng, “Exploiting Malicious RIS for Secret Key Acquisition in Physical-layer Key Generation,” in IEEE Wireless Communications Letters, vol. 13, no. 2, pp. 417-421, Feb. 2024, doi: 10.1109/LWC.2023.3330809. 
 
-- Y. Sun, **G. Li\***, H. Luo, Y. Xing, S. Dang and A. Hu, "Location-Invariant Radio Frequency Fingerprint for Base Station Recognition", IEEE Wireless Communications Letters, DOI:10.1109/LWC.2023.3283800, 2023.
+- Y. Sun,**G. Li\***, H. Luo, Y. Xing, S. Dang and A. Hu, "Location-Invariant Radio Frequency Fingerprint for Base Station Recognition," in IEEE Wireless Communications Letters, vol. 12, no. 9, pp. 1583-1587, Sept. 2023, doi: 10.1109/LWC.2023.3283800. 
   
-- L. Hu, C. Sun, G. Li, A. Hu and D. W. K. Ng, "Reconfigurable Intelligent Surface-Aided Secret Key Generation in Multi-Cell Systems," in IEEE Transactions on Communications, vol. 71, no. 11, pp. 6499-6513, Nov. 2023, doi: 10.1109/TCOMM.2023.3301048. 
+- L. Hu, C. Sun, **G. Li\***, A. Hu and D. W. K. Ng, "Reconfigurable Intelligent Surface-Aided Secret Key Generation in Multi-Cell Systems," in IEEE Transactions on Communications, vol. 71, no. 11, pp. 6499-6513, Nov. 2023, doi: 10.1109/TCOMM.2023.3301048. 
 
 - Q. Meng,**G. Li\***, J. Shi, and A. Hu, " Enhancing RF Fingerprinting with a Simulated Attack Detection Strategy for Few Labeled Signals," 2023 IEEE 23rd International Conference on Communication Technology (ICCT), Wuxi, China, 2023.
 
