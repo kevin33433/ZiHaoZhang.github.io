@@ -26,9 +26,7 @@ redirect_from:
 
 
 
-All of this information is not linked to anything that is personally identifiable.
 
-### Cookies and Web Beacons
 
 ## 实验室内已毕业师兄师姐工作情况：
 2021:
