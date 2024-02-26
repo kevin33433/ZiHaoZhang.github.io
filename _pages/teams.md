@@ -29,13 +29,16 @@ redirect_from:
 
 
 # 实验室内已毕业师兄师姐工作情况：
+### 2020：
+- - [何川]()（国家电网智研院）
 ### 2021:
-- 张鑫伟（香港理工大学读博）
-- 何川（国家电网智研院）
+- [张鑫伟](https://xinweizhang1998.github.io/xinweizhang.github.io/)（香港理工大学读博）
 - 杨海誉（华为）
-### 2020:
+### 2022:
 - 胡磊（马里兰大学读博）
-- 侯宗越（携程算法）
-- 施霁桐（交通银行）
-- 冯淑颖（比亚迪）
-- 黄志超(TP-LINK)
+- [侯宗越](https://kevin33433.github.io/6102laboratory.github.io/children/houzongyue.html)（携程算法）
+- [施霁桐](https://kevin33433.github.io/6102laboratory.github.io/children/shijitong.html)（交通银行）
+- [冯淑颖](https://kevin33433.github.io/6102laboratory.github.io/children/fengshuying.html)（比亚迪）
+- [黄志超](https://kevin33433.github.io/6102laboratory.github.io/children/huangzhichao.html)(TP-LINK)
+
+  
