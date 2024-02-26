@@ -35,7 +35,7 @@ redirect_from:
 - [张鑫伟](https://xinweizhang1998.github.io/xinweizhang.github.io/)（香港理工大学读博）
 - 杨海誉（华为）
 ### 2023:
-- [胡磊]((https://kevin33433.github.io/6102laboratory.github.io/children/hulei.html))（马里兰大学读博）
+- [胡磊](https://kevin33433.github.io/6102laboratory.github.io/children/hulei.html)（马里兰大学读博）
 - [侯宗越](https://kevin33433.github.io/6102laboratory.github.io/children/houzongyue.html)（携程算法）
 - [施霁桐](https://kevin33433.github.io/6102laboratory.github.io/children/shijitong.html)（交通银行）
 - [冯淑颖](https://kevin33433.github.io/6102laboratory.github.io/children/fengshuying.html)（比亚迪）
