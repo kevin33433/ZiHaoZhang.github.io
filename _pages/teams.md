@@ -45,8 +45,13 @@ redirect_from:
 - [施霁桐](https://kevin33433.github.io/6102laboratory.github.io/children/shijitong.html)（交通银行）
 - [冯淑颖](https://kevin33433.github.io/6102laboratory.github.io/children/fengshuying.html)（比亚迪）
 - [黄志超](https://kevin33433.github.io/6102laboratory.github.io/children/huangzhichao.html)(TP-LINK)
+
+
 # 招生视频：
 [![李老师招生视频](https://img.zcool.cn/community/011e715be5a375a80121ab5dcb09b4.jpg?x-oss-process=image/format,webp)](https://meeting.tencent.com/v2/cloud-record/share?id=bdNuqHzaRfKHYg3kIeTuL7HKFh6HZw4ODb0W2aNUjiU&from=3&record_type=1&is-single=true)
+# 招生ppt：
+[查看ppt文稿](https://github.com/GuyueLee/blog.github.io/blob/master/files/%E6%8B%9B%E7%94%9F2024.pptx)
+
 
 
 
