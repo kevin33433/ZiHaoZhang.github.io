@@ -47,7 +47,7 @@ redirect_from:
 - [黄志超](https://kevin33433.github.io/6102laboratory.github.io/children/huangzhichao.html)(TP-LINK)
 # 招生视频：
 [![李老师招生视频](https://github.com/GuyueLee/blog.github.io/blob/master/images/lgy.jpg)](https://meeting.tencent.com/v2/cloud-record/share?id=bdNuqHzaRfKHYg3kIeTuL7HKFh6HZw4ODb0W2aNUjiU&from=3&record_type=1&is-single=true)
-[![李老师招生视频](https://www.bing.com/images/search?view=detailV2&ccid=NkmvY2SY&id=A8CD69A0DE0CE1DF24DD7DA4AD4A9A086674A23A&thid=OIP.NkmvY2SYLtGRpNHP8iQlxAHaFi&mediaurl=https%3a%2f%2fimg.zcool.cn%2fcommunity%2f011e715be5a375a80121ab5dcb09b4.jpg%401280w_1l_2o_100sh.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.3649af6364982ed191a4d1cff22425c4%3frik%3dOqJ0ZgiaSq2kfQ%26pid%3dImgRaw%26r%3d0&exph=842&expw=1125&q=%e8%87%aa%e6%88%91%e4%bb%8b%e7%bb%8d%e8%a7%86%e9%a2%91%e5%b0%81%e9%9d%a2&simid=608043812172270821&FORM=IRPRST&ck=094A4B9885B535503B631CA22E3FCBE5&selectedIndex=1&itb=0&ajaxhist=0&ajaxserp=0)](https://meeting.tencent.com/v2/cloud-record/share?id=bdNuqHzaRfKHYg3kIeTuL7HKFh6HZw4ODb0W2aNUjiU&from=3&record_type=1&is-single=true)
+[![李老师招生视频](https://img.zcool.cn/community/011e715be5a375a80121ab5dcb09b4.jpg?x-oss-process=image/format,webp)](https://meeting.tencent.com/v2/cloud-record/share?id=bdNuqHzaRfKHYg3kIeTuL7HKFh6HZw4ODb0W2aNUjiU&from=3&record_type=1&is-single=true)
 
 
 
