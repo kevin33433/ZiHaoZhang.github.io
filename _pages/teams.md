@@ -46,9 +46,7 @@ redirect_from:
 - [冯淑颖](https://kevin33433.github.io/6102laboratory.github.io/children/fengshuying.html)（比亚迪）
 - [黄志超](https://kevin33433.github.io/6102laboratory.github.io/children/huangzhichao.html)(TP-LINK)
 # 招生视频：
-[![视频封面1](https://github.com/GuyueLee/blog.github.io/blob/master/images/bio-photo-2.jpg)](https://github.com/GuyueLee/blog.github.io/blob/master/files/video.mp4)
-[![视频封面2](https://github.com/GuyueLee/blog.github.io/blob/master/images/bio-photo-2.jpg)]([https://github.com/GuyueLee/blog.github.io/blob/master/files/video.mp4](https://meeting.tencent.com/v2/cloud-record/share?id=bdNuqHzaRfKHYg3kIeTuL7HKFh6HZw4ODb0W2aNUjiU&from=3&record_type=1&is-single=true))
-
+[![视频封面1](https://github.com/GuyueLee/blog.github.io/blob/master/images/bio-photo-2.jpg)](https://meeting.tencent.com/v2/cloud-record/share?id=bdNuqHzaRfKHYg3kIeTuL7HKFh6HZw4ODb0W2aNUjiU&from=3&record_type=1&is-single=true)
 视频网站录制:https://meeting.tencent.com/v2/cloud-record/share?id=bdNuqHzaRfKHYg3kIeTuL7HKFh6HZw4ODb0W2aNUjiU&from=3&record_type=1&is-single=true
 <iframe src="https://github.com/GuyueLee/blog.github.io/blob/master/files/video.mp4" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 2
