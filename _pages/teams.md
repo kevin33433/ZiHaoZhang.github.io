@@ -45,6 +45,6 @@ redirect_from:
 - [施霁桐](https://kevin33433.github.io/6102laboratory.github.io/children/shijitong.html)（交通银行）
 - [冯淑颖](https://kevin33433.github.io/6102laboratory.github.io/children/fengshuying.html)（比亚迪）
 - [黄志超](https://kevin33433.github.io/6102laboratory.github.io/children/huangzhichao.html)(TP-LINK)
-<iframe height=498 width=510 src="视频地址">
+<iframe height=498 width=510 src="[视频地址](https://github.com/GuyueLee/blog.github.io/blob/master/files/video.mp4)">
 
   
