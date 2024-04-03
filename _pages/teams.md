@@ -49,7 +49,7 @@ redirect_from:
 
 
 # 招生视频：
-[![李老师招生视频](https://img.zcool.cn/community/011e715be5a375a80121ab5dcb09b4.jpg?x-oss-process=image/format,webp)]([https://meeting.tencent.com/v2/cloud-record/share?id=bdNuqHzaRfKHYg3kIeTuL7HKFh6HZw4ODb0W2aNUjiU&from=3&record_type=1&is-single=true](https://meeting.tencent.com/user-center/shared-record-info?id=mEsNeJTGwn71xblA3Y_brTXHnBrwDHc53o-yLcsOaBw&is-single=false&record_type=3&from=3))
+[![李老师招生视频](https://img.zcool.cn/community/011e715be5a375a80121ab5dcb09b4.jpg?x-oss-process=image/format,webp)](https://meeting.tencent.com/user-center/shared-record-info?id=mEsNeJTGwn71xblA3Y_brTXHnBrwDHc53o-yLcsOaBw&is-single=false&record_type=3&from=3)
 # 招生ppt：
 [查看ppt文稿](https://github.com/GuyueLee/blog.github.io/blob/master/files/%E6%8B%9B%E7%94%9F2024.pptx)
 
