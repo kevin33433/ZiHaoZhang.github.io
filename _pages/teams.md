@@ -45,6 +45,7 @@ redirect_from:
 
   李老师的联系邮件guyuelee@seu.edu.cn
 
+  学长联系方式qq:2541348040
 
 
 
