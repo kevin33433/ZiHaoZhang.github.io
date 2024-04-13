@@ -19,7 +19,7 @@ author_profile: true
 
 - W. Wang, **G. Li\***, Z. Chu, H. Li and D. Faccio, "Two-Factor Authentication Approach Based on Behavior Patterns for Defeating Puppet Attacks," IEEE Sens. J., pp. 1-15, 2024.
 
-- H. Tang, **G. Li\***, G. Tao, and A. Hu, “A VT-Code-Based Information Reconciliation Scheme for Secret Key Generation Using RSS”, accepted by IEEE Commun. Lett., 2024.
+- H. Tang, G. Li*, T. Guo and A. Hu, "A VT-Code-Based Information Reconciliation Scheme for Secret Key Generation Using RSS," in IEEE Communications Letters, vol. 28, no. 4, pp. 783-787, April 2024, doi: 10.1109/LCOMM.2024.3362362.
 ## 2023
 - H. Luo, **G. Li\***, Y. Xing, J. Zhang and X. Wang, RelativeRFF: Multi-Antenna Device Identification in Multipath Propagation Scenarios," ICC 2023 - IEEE International Conference on Communications, Rome, Italy, 2023, pp. 3708-3713, doi: 10.1109/ICC45041.2023.10279540.
   
