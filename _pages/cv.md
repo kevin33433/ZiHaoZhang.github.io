@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 2024
 ======
 * 2023-11-29 **李古月**老师在[十四届“我最喜爱的研究生导师”评选活动]((http://www.m2ct.org/index.jsp))中，荣获“十佳导师提名暨学院优秀导师”称号。
