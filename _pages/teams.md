@@ -18,17 +18,18 @@ redirect_from:
 
 ### 课题组荣誉情况：
 
-已毕业8人中5人获国家奖学金！2021年张鑫伟、侯宗越和胡磊、2022年侯宇杰和胡磊、2023年李皓钰和孙海晰获得国家奖学金，2023年，赵金荣等同学在全国密码技术竞赛中斩获三等奖。在同年的全国仿真创新应用大赛中，我们课题组团队凭借扎实的专业技能，荣获国赛一等奖两项、二等奖一项。在李老师的悉心指导下，两位学生分别荣获香港理工大学与马里兰大学的博士生全额奖学金。在她的指导下，学生共发表论文六十余篇，其中十余篇一区，包括INFOCOM、TWC等国际一流会议期刊。
+刚毕业的八人中，4人获东南大学优秀毕业研究生，已毕业学生共获得过5次国家奖学金！2021年张鑫伟、侯宗越和胡磊、2022年侯宇杰和胡磊、2023年李皓钰和孙海晰获得国家奖学金，2023年，赵金荣等同学在全国密码技术竞赛中斩获三等奖。在同年的全国仿真创新应用大赛中，我们课题组团队凭借扎实的专业技能，荣获国赛一等奖两项、二等奖一项。在李老师的悉心指导下，两位学生分别荣获香港理工大学与马里兰大学的博士生全额奖学金。在她的指导下，学生共发表论文六十余篇，其中十余篇一区，包括INFOCOM、TWC等国际一流会议期刊。
 
 # 加入我们的PLS-LAB团队！
 ###  关于PLS-LAB：
 
-我们的实验室位于南京的无线谷，紫金山实验室6102。目前，实验室有20余名学生从事各类科研活动。此外，我们的一个分部也设在东南大学无锡校区的三江院，具体位置是203室。这两个场所都是我们科研工作的重要基地，长期从事于无线通信物理层安全的前沿研究。我们的研究方向广泛而深入，涵盖了面向未来通信技术的物理层密钥分发技术、基于设备指纹的安全接入技术、先进的波束成形、人工噪声增强、以及MIMO-OFDM技术等。研究包括通过物理层技术确保无线通信空中接口的安全，实现对接入设备的安全认证及密钥分发等。
+我们的实验室位于南京的无线谷，紫金山实验室6102。目前，实验室有20余名学生从事各类科研活动。此外，我们的一个分部也设在东南大学无锡校区的三江院，具体位置是203室。这两个场所都是我们科研工作的重要基地，长期从事于无线通信物理层安全的前沿研究。我们的研究方向广泛而深入，涵盖了面向未来通信技术的物理层密钥分发技术、基于设备指纹的安全接入技术、先进的波束成形、人工噪声增强、MIMO-OFDM技术、无线区块链等。研究包括通过物理层技术确保无线通信空中接口的安全，实现对接入设备的安全认证及密钥分发等。
 ### 目前，我们的研究焦点包括但不限于：
 - TDD/FDD/IBFD系统下基于无线信道互易性的密钥生成技术
 - IoT通信中基于设备指纹和链路指纹的认证与识别技术
 - 基于机器学习的射频指纹技术
-- 探索与计算机科学高度相关的新领域。
+- 探索与计算机科学高度相关的新领域
+- 区块链DID相关技术
 
   
 ### 我们的期待
@@ -46,9 +47,6 @@ redirect_from:
 
   李老师的联系邮件guyuelee@seu.edu.cn
 
-  学长联系方式qq:2541348040
-
-
 
 
 # 实验室内已毕业师兄师姐工作情况：
@@ -63,7 +61,15 @@ redirect_from:
 - [施霁桐](https://kevin33433.github.io/6102laboratory.github.io/children/shijitong.html)（交通银行）
 - [冯淑颖](https://kevin33433.github.io/6102laboratory.github.io/children/fengshuying.html)（比亚迪）
 - [黄志超](https://kevin33433.github.io/6102laboratory.github.io/children/huangzhichao.html)(TP-LINK)
-
+### 2024：
+- [罗弘毅](https://hongyiluo.github.io/)(曼彻斯特大学读博)
+- [马艺耘](https://kevin33433.github.io/6102laboratory.github.io/children/mayiyun.html)(华为)
+- [侯宇杰](https://kevin33433.github.io/6102laboratory.github.io/children/houyujie.html)(荣耀)
+- [杨婧妍](https://kevin33433.github.io/6102laboratory.github.io/children/yangjingyan.html)(江苏电信)
+- [孙逸伦](https://sunyl1123.github.io/6102laboratory.github.io/sunyilun.html)(事业编)
+- [杨丽琳]()(南京国企)
+- [赵金荣](https://kevin33433.github.io/6102laboratory.github.io/children/zhaojinrong.html)(百度)
+- [王文杰]()(小米)
 
 # 宣传视频：
 [![李老师招生视频](https://img.zcool.cn/community/011e715be5a375a80121ab5dcb09b4.jpg?x-oss-process=image/format,webp)](https://meeting.tencent.com/user-center/shared-record-info?id=mEsNeJTGwn71xblA3Y_brTXHnBrwDHc53o-yLcsOaBw&is-single=false&record_type=3&from=3)
