@@ -63,11 +63,11 @@ redirect_from:
 - [黄志超](https://kevin33433.github.io/6102laboratory.github.io/children/huangzhichao.html)(TP-LINK)
 ### 2024：
 - [罗弘毅](https://hongyiluo.github.io/)(曼彻斯特大学读博)
-- [马艺耘](https://kevin33433.github.io/6102laboratory.github.io/children/mayiyun.html)(华为)
+- [马亿耘](https://kevin33433.github.io/6102laboratory.github.io/children/mayiyun.html)(华为)
 - [侯宇杰](https://kevin33433.github.io/6102laboratory.github.io/children/houyujie.html)(荣耀)
 - [杨婧妍](https://kevin33433.github.io/6102laboratory.github.io/children/yangjingyan.html)(江苏电信)
-- [孙逸伦](https://sunyl1123.github.io/6102laboratory.github.io/sunyilun.html)(事业编)
-- [杨丽琳]()(南京国企)
+- [孙逸伦](https://sunyl1123.github.io/6102laboratory.github.io/sunyilun.html)(公务员)
+- [杨丽琳]()(南京金融租赁公司)
 - [赵金荣](https://kevin33433.github.io/6102laboratory.github.io/children/zhaojinrong.html)(百度)
 - [王文杰]()(小米)
 
