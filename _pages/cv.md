@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## 2024
-
+* 2024-7-15 课题组**侯宇杰、罗弘毅、马亿耘、孙逸伦**被评为示[网络空间安全学院2024届优秀毕业研究生](https://kevin33433.github.io/6102laboratory.github.io/%E5%AD%A6%E7%94%9F/award7.html)。
 * 2024-6-11 课题组**侯宇杰、罗弘毅、孙逸伦**被推荐评为示网络空间安全学院南京校区2024届优秀毕业研究生。
 * 2024-4-15 **李古月**老师在[第十四届“我最喜爱的研究生导师”评选活动](https://kevin33433.github.io/6102laboratory.github.io/%E5%AD%A6%E7%94%9F/award6.html)中，荣获“十佳导师提名暨学院优秀导师”称号。
 ## 2023
