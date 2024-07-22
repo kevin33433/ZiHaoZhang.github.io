@@ -49,9 +49,7 @@ redirect_from:
 
 
 # 实验室内已毕业师兄师姐工作情况：
-### 
-
-### 2021：
+### 2021:
 - [何川](https://kevin33433.github.io/6102laboratory.github.io/children/hechuan.html)（国家电网智研院）
 ### 2022:
 - [张鑫伟](https://xinweizhang1998.github.io/xinweizhang.github.io/)（香港理工大学读博）
