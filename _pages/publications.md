@@ -11,7 +11,12 @@ author_profile: true
 
 {% include base_path %}
 ## 2024
-- G. Li et al., "RIS-Jamming: Breaking Key Consistency in Channel Reciprocity-Based Key Generation," in IEEE Transactions on Information Forensics and Security, vol. 19, pp. 5090-5105, 2024.
+
+- H. Xu, K. Wong, W. New, **G. Li**, F. Ghadi, Y. Zhu, S. Jin, C. Chae, Y. Zhang, "Coding-Enhanced Cooperative Jamming for Secret Communication in Fluid Antenna Systems," in IEEE Communications Letters, doi: 10.1109/LCOMM.2024.3418338. 
+
+- X. Yuan, Y. Jiang, **G. Li** and A. Hu, "Wireless Channel Key Generation Based on Multisubcarrier Phase Difference," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3418812. 
+
+- **G. Li** et al., "RIS-Jamming: Breaking Key Consistency in Channel Reciprocity-Based Key Generation," in IEEE Transactions on Information Forensics and Security, vol. 19, pp. 5090-5105, 2024.
  
 - Y Du, H Dai, H Liu, Y Wang, **G Li**, Y Ren, Y Chen, and K Zhang, “Secret key generation based on manipulated channel measurement matching,” IEEE Transactions on Mobile Computing (TMC), 2024, DOI: 10.1109/TMC.2024.3364909.
  
@@ -21,7 +26,7 @@ author_profile: true
 
 - W. Wang, **G. Li\***, Z. Chu, H. Li and D. Faccio, "Two-Factor Authentication Approach Based on Behavior Patterns for Defeating Puppet Attacks," IEEE Sens. J., pp. 1-15, 2024.
 
-- H. Tang, G. Li*, T. Guo and A. Hu, "A VT-Code-Based Information Reconciliation Scheme for Secret Key Generation Using RSS," in IEEE Communications Letters, vol. 28, no. 4, pp. 783-787, April 2024, doi: 10.1109/LCOMM.2024.3362362.
+- H. Tang, **G. Li\***, T. Guo and A. Hu, "A VT-Code-Based Information Reconciliation Scheme for Secret Key Generation Using RSS," in IEEE Communications Letters, vol. 28, no. 4, pp. 783-787, April 2024, doi: 10.1109/LCOMM.2024.3362362.
 ## 2023
 - H. Luo, **G. Li\***, Y. Xing, J. Zhang and X. Wang, RelativeRFF: Multi-Antenna Device Identification in Multipath Propagation Scenarios," ICC 2023 - IEEE International Conference on Communications, Rome, Italy, 2023, pp. 3708-3713, doi: 10.1109/ICC45041.2023.10279540.
   
