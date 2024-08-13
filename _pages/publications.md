@@ -11,6 +11,7 @@ author_profile: true
 
 {% include base_path %}
 ## 2024
+- J Wang, S Gao,**G. Li**, K Gai, and B Xiao, “SAMCU: Secure and Anonymous Multi-Channel Updates in Payment-Channel Networks,”accepted by IEEE Transactions on Information Forensics and Security (TIFS), 2024.
 - H. Yang, B. Xie, J. Wang, **G. Li**, and B. Xiao, “Privacy-Preserving and Secure Decentralized Identity Management for Multiple Controllers,” in Proc. IEEE Global Communications Conference (GLOBECOM), Cape Town, South Africa, 8–12 Dec. 2024, pp. 1-6.
   
 - S. Feng, Y. Cheng, **G. Li*** and B. Xiao, " Physical-layer Secret Key Generation with Energy Efficiency Maximization," in Proc. IEEE Global Communications Conference (GLOBECOM), Cape Town, South Africa, 8–12 Dec. 2024, pp. 1-6.
