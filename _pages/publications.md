@@ -11,7 +11,10 @@ author_profile: true
 
 {% include base_path %}
 ## 2024
-
+- H. Yang, B. Xie, J. Wang, **G. Li**, and B. Xiao, “Privacy-Preserving and Secure Decentralized Identity Management for Multiple Controllers,” in Proc. IEEE Global Communications Conference (GLOBECOM), Cape Town, South Africa, 8–12 Dec. 2024, pp. 1-6.
+  
+- S. Feng, Y. Cheng, **G. Li*** and B. Xiao, " Physical-layer Secret Key Generation with Energy Efficiency Maximization," in Proc. IEEE Global Communications Conference (GLOBECOM), Cape Town, South Africa, 8–12 Dec. 2024, pp. 1-6.
+  
 - H. Xu, K. Wong, W. New, **G. Li**, F. Ghadi, Y. Zhu, S. Jin, C. Chae, Y. Zhang, "Coding-Enhanced Cooperative Jamming for Secret Communication in Fluid Antenna Systems," in IEEE Communications Letters, doi: 10.1109/LCOMM.2024.3418338. 
 
 - X. Yuan, Y. Jiang, **G. Li** and A. Hu, "Wireless Channel Key Generation Based on Multisubcarrier Phase Difference," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3418812. 
