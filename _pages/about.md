@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**李古月**，东南大学网络空间安全学院副教授，博导，2017年于东南大学获得博士学位，导师为胡爱群教授。2014年受欧美FP7项目资助访学坦佩雷理工大学，2019年受中法蔡元培项目资助在ESIEE PARIS大学作短期访问,2024年**“斯坦福全球前2%科学家”**。目前主要研究方向为物理层安全、无线通信安全及物联网安全等。IEEE会员、中国计算机学会会员、中国通信学会高级会员、江苏省网络空间安全学会会员。担任国际SCI期刊EURASIP Journal on Wireless Communications and Networking (EJWCN)副主编，IEEE Communication Letters编辑，IEEE VTC2021、2022、2023-Fall物理层安全研讨会联合主席。以第一/通讯作者在IEEE Transactions on Information Forensics and Security、IEEE Transactions on Communications、IEEE Wireless Communications、IEEE INFOCOM等国际一流期刊和会议上发表论文30余篇。现主持国家自然科学基金项目两项、区域联合基金课题一项，国家重点研发计划子课题一项，江苏省自然科学基金面上项目一项以及企业联合课题多项。曾荣获2022年国际无线电科学联盟授予URSI青年科学家奖、2022年江苏省网络空间安全学会青年科技奖、东南大学“至善青年学者”A、B层次人才，东南大学第二届“杰出教学奖”，“第十四届全国大学生信息安全竞赛”优秀指导教师以及江苏省本科生优秀毕业论文一等奖指导教师等荣誉。
+**李古月**，东南大学网络空间安全学院副教授，博导，2017年于东南大学获得博士学位，导师为胡爱群教授。2014年受欧美FP7项目资助访学坦佩雷理工大学，2019年受中法蔡元培项目资助在ESIEE PARIS大学作短期访问,2024年** “斯坦福全球前2%科学家” **。目前主要研究方向为物理层安全、无线通信安全及物联网安全等。IEEE会员、中国计算机学会会员、中国通信学会高级会员、江苏省网络空间安全学会会员。担任国际SCI期刊EURASIP Journal on Wireless Communications and Networking (EJWCN)副主编，IEEE Communication Letters编辑，IEEE VTC2021、2022、2023-Fall物理层安全研讨会联合主席。以第一/通讯作者在IEEE Transactions on Information Forensics and Security、IEEE Transactions on Communications、IEEE Wireless Communications、IEEE INFOCOM等国际一流期刊和会议上发表论文30余篇。现主持国家自然科学基金项目两项、区域联合基金课题一项，国家重点研发计划子课题一项，江苏省自然科学基金面上项目一项以及企业联合课题多项。曾荣获2022年国际无线电科学联盟授予URSI青年科学家奖、2022年江苏省网络空间安全学会青年科技奖、东南大学“至善青年学者”A、B层次人才，东南大学第二届“杰出教学奖”，“第十四届全国大学生信息安全竞赛”优秀指导教师以及江苏省本科生优秀毕业论文一等奖指导教师等荣誉。
 
 
 个人主页：https://www.researchgate.net/profile/Li_Guyue
