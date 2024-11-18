@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 ## 2024
-* 2024-11-12 课题组**汪文灏、唐宏海**获[研究生国家奖学金](https://kevin33433.github.io/6102laboratory.github.io/%E5%AD%A6%E7%94%9F/award7.html)
-* 2024-11-12 课题组**李皓钰、孙海晰**获[研究生至善奖学金](https://kevin33433.github.io/6102laboratory.github.io/%E5%AD%A6%E7%94%9F/award7.html)
+* 2024-11-12 课题组**汪文灏、唐宏海**获[研究生国家奖学金](https://kevin33433.github.io/6102laboratory.github.io/%E5%AD%A6%E7%94%9F/award8.html)
+* 2024-11-12 课题组**李皓钰、孙海晰**获[研究生至善奖学金](https://kevin33433.github.io/6102laboratory.github.io/%E5%AD%A6%E7%94%9F/award9.html)
 * 2024-9-16 **李古月老师**入选2024年[“斯坦福全球前2%科学家”](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7)
 * 2024-7-15 课题组**侯宇杰、罗弘毅、马亿耘、孙逸伦**被评为[网络空间安全学院2024届优秀毕业研究生](https://kevin33433.github.io/6102laboratory.github.io/%E5%AD%A6%E7%94%9F/award7.html)。
 * 2024-6-11 课题组**侯宇杰、罗弘毅、孙逸伦**被推荐评为网络空间安全学院南京校区2024届优秀毕业研究生。
